@@ -16,7 +16,7 @@ window.addEventListener("load", function () {
             slidesToScroll: 2,
             dots: true,
             arrows: false,
-            autoplay: false,
+            autoplay: true,
             speed: 1500,
             responsive: [
                 {
