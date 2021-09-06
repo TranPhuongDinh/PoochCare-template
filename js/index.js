@@ -1,5 +1,7 @@
 window.addEventListener("load", function () {
     $(document).ready(function () {
+        $(".preload").fadeOut(1000);
+
         $(".carousel").slick({
             infinite: true,
             slidesToShow: 1,
